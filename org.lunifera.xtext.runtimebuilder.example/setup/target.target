@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="target" sequenceNumber="16">
+<locations>
+<location path="${eclipse_home}" type="Profile"/>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="slicer" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.persistence.sdk.feature.group" version="2.6.0.v20130815-a4708b6"/>
+<repository location="http://download.eclipse.org/releases/luna"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="slicer" includeSource="true" type="InstallableUnit">
+<unit id="org.lunifera.xtext.builder.feature.runtime.source.feature.group" version="0.8.2.201407071549"/>
+<unit id="org.lunifera.xtext.builder.feature.runtime.feature.group" version="0.8.2.201407071549"/>
+<unit id="org.lunifera.xtext.builder.feature.service.xbase.feature.group" version="0.8.2.201407071549"/>
+<unit id="org.lunifera.dependencies.feature.assert-utilities.feature.group" version="1.2.2.2"/>
+<unit id="org.lunifera.runtime.feature.common.source.feature.group" version="0.7.1.201407011710"/>
+<unit id="org.lunifera.xtext.builder.feature.service.jvmtypes.feature.group" version="0.8.2.201407071549"/>
+<unit id="org.lunifera.xtext.builder.feature.types.feature.group" version="0.8.2.201407071549"/>
+<unit id="org.lunifera.runtime.feature.common.feature.group" version="0.7.1.201407011710"/>
+<unit id="org.lunifera.xtext.builder.feature.service.jvmtypes.source.feature.group" version="0.8.2.201407071549"/>
+<unit id="org.lunifera.xtext.builder.feature.service.xbase.source.feature.group" version="0.8.2.201407071549"/>
+<unit id="org.lunifera.xtext.builder.feature.types.source.feature.group" version="0.8.2.201407071549"/>
+<repository location="http://lun.lunifera.org/downloads/p2/lunifera/luna/latest/"/>
+</location>
+</locations>
+</target>

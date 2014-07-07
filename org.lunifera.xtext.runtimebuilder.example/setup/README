@@ -1,0 +1,5 @@
+Download Luna Modeling
+Install Xtext 2.6.1 from http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/
+Set target.target as targetplatform
+
+Run AllTests
